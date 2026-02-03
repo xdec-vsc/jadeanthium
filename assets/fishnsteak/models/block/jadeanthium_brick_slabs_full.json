@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "fishnsteak:block/jadebricks",
+    "bottom": "fishnsteak:block/jadebricks",
+    "top": "fishnsteak:block/jadebricks",
+    "side": "fishnsteak:block/jadebricks"
+  },
+  "render_type": "solid"
+}

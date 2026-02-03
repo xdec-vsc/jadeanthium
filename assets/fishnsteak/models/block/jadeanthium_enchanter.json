@@ -1,0 +1,11 @@
+{
+  "parent": "fishnsteak:custom/jadeanthiumenchanter",
+  "textures": {
+    "all": "fishnsteak:block/jadeenchanterbottom",
+    "particle": "fishnsteak:block/jadeenchanterbottom",
+    "0": "fishnsteak:block/jadeenchanterside",
+    "1": "fishnsteak:block/jadeenchantertop",
+    "2": "fishnsteak:block/jadeenchanterbottom"
+  },
+  "render_type": "solid"
+}

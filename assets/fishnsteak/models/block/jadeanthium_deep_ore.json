@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fishnsteak:block/jadedeepore",
+    "up": "fishnsteak:block/jadedeepore",
+    "north": "fishnsteak:block/jadedeepore",
+    "east": "fishnsteak:block/jadedeepore",
+    "south": "fishnsteak:block/jadedeepore",
+    "west": "fishnsteak:block/jadedeepore",
+    "particle": "fishnsteak:block/jadedeepore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fishnsteak:block/jadeanthium_brick_slabs"
+    },
+    "type=top": {
+      "model": "fishnsteak:block/jadeanthium_brick_slabs_top"
+    },
+    "type=double": {
+      "model": "fishnsteak:block/jadeanthium_brick_slabs_full"
+    }
+  }
+}

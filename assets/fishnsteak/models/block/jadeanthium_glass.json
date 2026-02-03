@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fishnsteak:block/white_stained_glass",
+    "up": "fishnsteak:block/white_stained_glass",
+    "north": "fishnsteak:block/white_stained_glass",
+    "east": "fishnsteak:block/white_stained_glass",
+    "south": "fishnsteak:block/white_stained_glass",
+    "west": "fishnsteak:block/white_stained_glass",
+    "particle": "fishnsteak:block/white_stained_glass"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "fishnsteak:block/jadebricks",
+    "bottom": "fishnsteak:block/jadebricks",
+    "top": "fishnsteak:block/jadebricks",
+    "side": "fishnsteak:block/jadebricks"
+  },
+  "render_type": "solid"
+}
