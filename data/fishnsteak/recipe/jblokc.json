@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    {
+      "item": "fishnsteak:jadeanthium_ingot"
+    }
+  ],
+  "result": {
+    "id": "fishnsteak:jadeanthium_block",
+    "count": 1
+  }
+}

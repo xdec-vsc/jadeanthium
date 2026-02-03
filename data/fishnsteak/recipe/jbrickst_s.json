@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "fishnsteak:jadeanthium_bricks"
+  },
+  "result": {
+    "id": "fishnsteak:jadeanthium_brick_stairs",
+    "count": 1
+  }
+}

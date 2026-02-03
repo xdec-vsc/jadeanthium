@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.fishnsteak.muscle_memory_enc"
+  },
+  "supported_items": "fishnsteak:pure_jade_sword",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 1,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": []
+}

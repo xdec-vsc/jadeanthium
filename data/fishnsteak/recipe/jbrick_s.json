@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "fishnsteak:jadeanthium_block"
+  },
+  "result": {
+    "id": "fishnsteak:jadeanthium_bricks",
+    "count": 1
+  }
+}

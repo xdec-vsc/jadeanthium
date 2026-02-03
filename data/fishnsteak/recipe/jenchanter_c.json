@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "fishnsteak:pure_jadeanthium_ingot"
+    },
+    "b": {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    "c": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "id": "fishnsteak:jadeanthium_enchanter",
+    "count": 1
+  }
+}

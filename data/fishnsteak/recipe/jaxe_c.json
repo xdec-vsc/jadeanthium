@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    "ba",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "fishnsteak:jadeanthium_axe",
+    "count": 1
+  }
+}

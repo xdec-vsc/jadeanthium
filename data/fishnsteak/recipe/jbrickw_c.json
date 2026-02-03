@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "fishnsteak:jadeanthium_bricks"
+    }
+  },
+  "result": {
+    "id": "fishnsteak:jadeanthium_brick_walls",
+    "count": 6
+  }
+}

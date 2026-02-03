@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "fishnsteak:jadeanthium_ingot"
+    },
+    "b": {
+      "tag": "c:glass_blocks/cheap"
+    }
+  },
+  "result": {
+    "id": "fishnsteak:jadeanthium_glass",
+    "count": 2
+  }
+}
